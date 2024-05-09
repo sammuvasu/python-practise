@@ -1,0 +1,30 @@
+Variables:
+Variables are nothing but reserved memory locations to store values. This means when you create a variable you reserve some space in memory.
+
+#eg1;
+
+Student = Vasu
+print(student)
+
+  #here Student = variable
+
+  #and Vasu =  value
+
+#eg2;
+
+
+a, b, c = 17, 12, 1999
+
+print(a,b,c)
+
+#here a,b,c = variables and 17,12,1999 = values
+
+Rules of  variables:
+1. Variables can not start with digits and symbols
+2. Variables should be meaningful
+3. We can write alphanumeric values in variables
+4.No space is allowed in variables
+5. The characters allowed in Python variables are 
+alphabets ( either upper or lower case)
+digits (0-9)
+and underscore( _ )
